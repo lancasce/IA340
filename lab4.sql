@@ -47,5 +47,7 @@ FROM
 I did  have to modify to get a better result because it did not presenta  clear code the first time. */
 
 --4.8
-/* ChatGPTs responses are not not always accurate. The code produced in usually effective.
-Sometimes you are required to build off of your previous prompt to get a more effective answer to your question. */
+/* ChatGPT's responses are not not always accurate. The code produced in usually effective, but not fully reliable.
+Sometimes you are required to build off of your previous prompt to get a more effective answer to your question. 
+You do need to be very specific with the program to get an effective analysis.
+ChatGPT's analysis also needs to be checked before use, adding a step to the process. */
